@@ -135,4 +135,7 @@ Claude 4.5 模型倾向于效率，可能会在工具调用后跳过口头总结
 
 ---
 
-*整理自 @minchoi 的 Twitter 帖子，原文发布于 2024年12月14日*
+claude国内直接使用：https://claude-opus.top/list
+微信客服： coder-maynor
+
+*整理自 @minchoi 的 Twitter 帖子，原文发布于 2025年12月14日*
